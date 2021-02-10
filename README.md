@@ -56,9 +56,9 @@
 
 ![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_124.png?raw=true)
 
-# I would also recommend muting the song if you dont want to get annoyed!
-# also make sure your discord is connected to your spotify!
-
+## I would also recommend muting the song if you dont want to get annoyed!
+## also make sure your discord is connected to your spotify!
+# By L30Z
 
 
 
