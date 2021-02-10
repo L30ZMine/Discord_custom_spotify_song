@@ -4,7 +4,7 @@
 
 
 # Steps:
-## Locate the song you want to change stuff that works ( only .mp3, .m4p(without video))
+## Locate the song you want to change ( only .mp3, .m4p(without video))
 
 ![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_113.png?raw=true)
 
