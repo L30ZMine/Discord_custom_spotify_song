@@ -1,4 +1,4 @@
-# Discord_custom_spotify_song
+# How to add Custom Text to Spotify Discord Rich Presence
 ## thats how i added my own custom one :)))
 ### you can also download the mp3 i send and use that if you want!
 
