@@ -1,10 +1,11 @@
 # Discord_custom_spotify_song
-thats how i added my own custom one :)))
+## thats how i added my own custom one :)))
+### you can also download the mp3 i send and use that if you want!
 
 ![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_112.png?raw=true)
 
 
-Steps:
+#Steps:
 ## Locate the song you want to change stuff that works : .mp3, .m4p(without video)
 
 ![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_113.png?raw=true)
