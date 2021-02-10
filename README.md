@@ -28,3 +28,37 @@ The song writer:
 The Album
 
 ![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_118.png?raw=true)
+
+SPOTIFY PART !
+
+Navigate to the Arrow in Spotify
+
+![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_119.png?raw=true)
+
+Go to Settings
+
+![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_120.png?raw=true)
+
+Scroll Down to locale Files
+
+![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_121.png?raw=true)
+
+Check mark the button
+
+![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_122.png?raw=true)
+
+Add your custom directiory where the song is located
+
+![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_123.png?raw=true)
+
+Lastly locate the Custom songs, Local Files playlist and play the song!
+
+![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_120.png?raw=true)
+
+I would also recommend muting the song if you dont want to get annoyed!
+
+
+
+
+
+
