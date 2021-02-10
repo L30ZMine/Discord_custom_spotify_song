@@ -29,7 +29,10 @@ The Album
 
 ![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_118.png?raw=true)
 
-SPOTIFY PART !
+<div id="bigtext">
+    <span>SPOTIFY PART !</span>
+    <span></span>
+</div>
 
 Navigate to the Arrow in Spotify
 
