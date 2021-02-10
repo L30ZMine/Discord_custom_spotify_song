@@ -53,7 +53,7 @@ Add your custom directiory where the song is located
 
 Lastly locate the Custom songs, Local Files playlist and play the song!
 
-![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_120.png?raw=true)
+![alt text](https://github.com/L30ZMine/Discord_custom_spotify_song/blob/blop/Screenshot_124.png?raw=true)
 
 I would also recommend muting the song if you dont want to get annoyed!
 
