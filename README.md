@@ -57,7 +57,8 @@
 ## I would also recommend muting the song if you dont want to get annoyed!
 ## also make sure your discord is connected to your spotify!
 ### you can also download the mp3 i send and use that if you want!
-# By L30Z
+
+## [Back to my Profile](https://www.github.com/L30Zmine/)
 
 
 
